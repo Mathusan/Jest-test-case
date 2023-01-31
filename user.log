@@ -1,0 +1,22 @@
+{"level":"error","message":"User not found","timestamp":"2023-01-30T07:04:22.676Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:04:54.758Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:05:01.686Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:05:06.085Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:05:16.300Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:05:24.613Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:06:01.882Z"}
+{"level":"error","message":"Email Already Registered","timestamp":"2023-01-30T07:06:28.717Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:06:34.326Z"}
+{"level":"error","message":"User not found","timestamp":"2023-01-30T07:06:42.698Z"}
+{"level":"error","message":"AxiosError: Request failed with status code 401\n    at settle (E:\\rootaid_folder\\Yarn\\keycloak\\express_keycloak_mongoDb - Copy\\node_modules\\axios\\dist\\node\\axios.cjs:1268:12)\n    at IncomingMessage.handleStreamEnd (E:\\rootaid_folder\\Yarn\\keycloak\\express_keycloak_mongoDb - Copy\\node_modules\\axios\\dist\\node\\axios.cjs:2446:11)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2023-01-30T07:07:04.758Z"}
+{"level":"error","message":"AxiosError: Request failed with status code 401\n    at settle (E:\\rootaid_folder\\Yarn\\keycloak\\express_keycloak_mongoDb - Copy\\node_modules\\axios\\dist\\node\\axios.cjs:1268:12)\n    at IncomingMessage.handleStreamEnd (E:\\rootaid_folder\\Yarn\\keycloak\\express_keycloak_mongoDb - Copy\\node_modules\\axios\\dist\\node\\axios.cjs:2446:11)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2023-01-30T07:07:12.638Z"}
+{"level":"error","message":"Refresh token not stored on cookie","timestamp":"2023-01-30T07:07:15.971Z"}
+{"level":"error","message":"Refresh token not stored on cookie","timestamp":"2023-01-30T07:07:21.294Z"}
+{"level":"error","message":"Email Already Registered","timestamp":"2023-01-30T07:08:24.291Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:08:24.575Z"}
+{"level":"error","message":"User not found","timestamp":"2023-01-30T07:08:24.750Z"}
+{"level":"error","message":"User not found","timestamp":"2023-01-30T07:08:24.801Z"}
+{"level":"error","message":"Email Already Registered","timestamp":"2023-01-30T07:10:19.429Z"}
+{"level":"error","message":"Username Already Registered","timestamp":"2023-01-30T07:10:19.775Z"}
+{"level":"error","message":"User not found","timestamp":"2023-01-30T07:10:19.959Z"}
+{"level":"error","message":"User not found","timestamp":"2023-01-30T07:10:20.012Z"}
